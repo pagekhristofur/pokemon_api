@@ -5,12 +5,12 @@ app = Flask(__name__)
 
 #best practices:
 #organizing data into a csv
-#hiding data curation into a seperate fucntion
+#hiding data curation into a seperate function
 #used correct name spaces
-#kept app very simple with refactoring return statements
+#kept app very simple with refactoring in return statements
 #provided error handling using optional parameters
 #used naming convention for app start, using a well defined hook (globally)
-#created a virtual env for encapsulated application
+#created a virtual env for encapsulated application modules
 #added an empty line at the name of the file PEP
 
 
